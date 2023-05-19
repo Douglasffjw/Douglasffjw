@@ -1,4 +1,7 @@
-## Olá! Meu nome é Douglas Fernandes!
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Olá! Meu nome é Douglas Fernandes! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
 - 📚 Cursando Análise e desenvolvimento de sistemas.
 - 👨🏽‍💻 No momento estou estudando as tecnologías Front-End e a linguágem Python.
@@ -13,7 +16,8 @@
   <img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logo Dg VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-</div>
+  <img align="center" alt="Logo Dg VsCode" height="30" width="40" src=
+  </div>
   
 ##
   
