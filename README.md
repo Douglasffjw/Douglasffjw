@@ -5,7 +5,7 @@
 
 
 - 📚 Cursando Análise e desenvolvimento de sistemas.
-- 👨🏽‍💻 No momento estou estudando as tecnologías Front-End e a linguágem Python.
+- 👨🏽‍💻 No momento estou estudando as tecnologías Front-End e a linguagem Python.
 
 ### Main skills:
 <div style="display: inline_block"><br>
