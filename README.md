@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Douglas Fernandes!
 
-- 📚 Curso Análise e desenvolvimento de sistemas.
+- 📚 Cursando Análise e desenvolvimento de sistemas.
 - 👨🏽‍💻 No momento estou estudando as tecnologías Front-End e a linguágem Python.
 
 ## Tenho uma base de conhecimentos nas seguintes tecnologías 👇🏽:
