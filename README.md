@@ -19,8 +19,6 @@
 ### Studying in this moment:
 <img align="center" alt="Logo Dg Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Dg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  ### Meu Portifólio 👇🏽
- https://douglasffjw.github.io/Meu-Portifolio
   
 ##
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
