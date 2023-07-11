@@ -5,7 +5,7 @@
 *<h4 align="center"><a href="https://douglasffjw.github.io/Meu-Portifolio/">Click here to visit my portfolio</a></h4>*
 
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
-- *👨🏽‍💻 No momento estou estudando as tecnologías Front-End e a linguagem Python.*
+- *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
 
 ### Main skills:
 <div style="display: inline_block"><br>
