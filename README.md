@@ -7,7 +7,7 @@
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
 
-### Main skills:
+### Technologies I'm currently using:
 <div style="display: inline_block"><br>
   <a href= https://github.com/Douglasffjw>
 <img align="center" alt="Logo Dg Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Logo Dg VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   </div>
 
-### Studying in this moment:
+### Technologies I'm currently studying:
 <img align="center" alt="Logo Dg Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Dg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   
