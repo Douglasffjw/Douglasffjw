@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Fernandes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-*<h4 align="center"><a href="https://douglasffjw.github.io/Meu-Portifolio/">Click here to visit my portfolio</a></h4>*
+*<h4 align="center"><a href = "https://douglasffjw.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank"></h4>*
 
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
@@ -28,5 +28,5 @@
    <a href = "mailto:douglasfernandesti@gmail.com?subject=Olá Douglas, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dgfernandesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-   
   
+
