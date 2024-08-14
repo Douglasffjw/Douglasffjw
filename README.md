@@ -13,13 +13,20 @@
 
   
 ##
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
-  
-<div>
-  <a href = "https://meu-portifolio-dg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
-   <a href = "mailto:douglasfernandesti@gmail.com?subject=Olá Douglas, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dgfernandesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <a href="https://instagram.com/_dougl4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+<div style="display: inline_block"><br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
+</div>
+</div>
+
+<div align="center">
+<div style="display: inline_block"><br>
+<a href = "https://meu-portifolio-dg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
+<a href = "mailto:douglasfernandesti@gmail.com?subject=Olá Douglas, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dgfernandesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/_dougl4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 </div>
     
 <div align="center">
