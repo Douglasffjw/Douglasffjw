@@ -4,7 +4,7 @@
 
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 Focado em me tornar um Desenvolvedor Full-Stack.*
-- *🙌🏽 A procura de uma oportunidade de Estágio para ganhar mais experiência e por em prática minhas habilidades.*
+- *🙌🏽 Buscando minha primeira oportunidade no mercado para adquirir experiência e aplicar minhas habilidades na prática.*
 
 ### Conhecimentos:
 <img align="center" alt="Logo Dg Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img align="center" alt="Logo Dg Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"><img align="center" alt="Dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Dg-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
