@@ -12,13 +12,7 @@
 
 
   
-##
-<div align="center">
-<div style="display: inline_block"><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
-</div>
-</div>
+
 
 <div align="center">
 <div style="display: inline_block"><br>
